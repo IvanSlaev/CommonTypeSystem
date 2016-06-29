@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\CSharp OOP\CommonTypeSystem\04.Person class\bin\Debug\04.Person class.exe.config
+E:\Dropbox\VS C# projects\CSharp OOP\CommonTypeSystem\04.Person class\bin\Debug\04.Person class.exe
+E:\Dropbox\VS C# projects\CSharp OOP\CommonTypeSystem\04.Person class\bin\Debug\04.Person class.pdb
+E:\Dropbox\VS C# projects\CSharp OOP\CommonTypeSystem\04.Person class\obj\Debug\04.Person class.exe
+E:\Dropbox\VS C# projects\CSharp OOP\CommonTypeSystem\04.Person class\obj\Debug\04.Person class.pdb
